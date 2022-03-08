@@ -1,4 +1,4 @@
-# Rahayu-Rosalia-MidProject
+# Bintang&Satria-MidProject
 File to test virtual Environment (by :Rahayu and Rosalia)
   
   
