@@ -23,8 +23,10 @@ you need to continue to step 5.
 17. then press initialize Repository. after initialize, give a commit message, press the “Ctrl + Enter” keyword, and then click on “Yes.”
 19. after commit you should click more icon then click push to 
 20. ![image](https://user-images.githubusercontent.com/71108329/157261561-0648ba97-d419-4bc1-85b7-298f68e6a349.png)
-21. in here you clicked Add Remote and paste the link of your repository that you have already copy before and enter the name of Remote also![image](https://user-images.githubusercontent.com/71108329/157261944-c08e86f1-d095-47b5-b0c4-9ab9d5db4fc2.png)
-22. then click again the step from more icon untill push to, in here you can simply choose the URL of your Repository before and click the URL. ![image](https://user-images.githubusercontent.com/71108329/157262182-cb5f4dff-5dcf-4af2-9272-249fdaa16f95.png)
-23. after click the URL Link you can check your github wehter it is already Pushed or not. if already Pushed then its done 
-24. Congratulation !!! 
+21. in here you clicked Add Remote and paste the link of your repository that you have already copy before and enter the name of Remote also
+22. ![image](https://user-images.githubusercontent.com/71108329/157261944-c08e86f1-d095-47b5-b0c4-9ab9d5db4fc2.png)
+23. then click again the step from more icon untill push to, in here you can simply choose the URL of your Repository before and click the URL. 
+24. ![image](https://user-images.githubusercontent.com/71108329/157262182-cb5f4dff-5dcf-4af2-9272-249fdaa16f95.png)
+25. after click the URL Link you can check your github wehter it is already Pushed or not. if already Pushed then its done 
+26. Congratulation !!! 
 
