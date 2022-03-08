@@ -1,4 +1,4 @@
-# SoftwareEngineering
+# SoftwareEngineering Bintang & Satria
 Steps to run Python Virtual Environment on Windows and get all the requirements installed inside it and send it to github:
 1. Go to your IDE (In my case, VS code) terminal and open your project directory.
 2. Run "python -m venv venv" in the terminal to create a new virtual environemnt. After this, you should see a new folder called "venv" created inside your project directory
